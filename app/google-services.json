@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250929173017",
+    "project_id": "habit-tracker-50952",
+    "storage_bucket": "habit-tracker-50952.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250929173017:android:0422007879a777935f5088",
+        "android_client_info": {
+          "package_name": "com.martinosama.habittracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250929173017-t34movc9nss45vq5971fg1f5f5qoqu8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.martinosama.habittracker",
+            "certificate_hash": "07b8ebe6c16d3564d660eb48122fbd2bac6a1646"
+          }
+        },
+        {
+          "client_id": "250929173017-s43ab1lvv7gib26ijtds18cslcmi1d15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvTeDlqc5XGVLDKS7wmND7mouMYqeHqog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250929173017-s43ab1lvv7gib26ijtds18cslcmi1d15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
