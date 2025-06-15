@@ -1,7 +1,5 @@
 # 🧠 Habit Tracker – Diplom Project
 
-![GitHub license](https://img.shields.io/github/license/MartinOsama/HabitTracker?color=blue)
-
 A full-stack habit tracking application built with **Kotlin Ktor backend**, **PostgreSQL database**, and an **Android Jetpack Compose frontend**.
 
 This project helps users track daily habits, set reminders, and monitor progress through visual statistics.
@@ -78,14 +76,17 @@ This project helps users track daily habits, set reminders, and monitor progress
    cd habit-tracker/backend
    
 2. **Start PostgreSQL using Docker:**
+   
    docker-compose up -d
 
 3. **Set environment variables:**
+   
    DB_URL=jdbc:postgresql://db:5432/habit_db
    DB_USER=habit_user
    DB_PASSWORD=habit_pass
 
 4. **Run the backend server:**
+   
    ./gradlew run
    The backend will run at: http://localhost:8080
 
